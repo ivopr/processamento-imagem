@@ -1,5 +1,5 @@
 % abrir imagem
-img = imread("lena512color.tiff");
+img = imread("images/lena512color.tiff");
 
 % separar os canais de cor da imagem
 % 1- vermelho
